@@ -30,7 +30,7 @@ Create an account on the Yahoo Service to get the following keys. PS - Create an
 - String kYahooToken = "Yahoo App Password";  //Your generated yahoo password for sending email notifications
 
 All systems go? Use Flutter run to start project
-<img src="https://user-images.githubusercontent.com/40659333/120620183-9de10980-c454-11eb-97bd-cc6337f263f5.png">
+<img src="https://user-images.githubusercontent.com/40659333/120620183-9de10980-c454-11eb-97bd-cc6337f263f5.png" height="300">
 ![hoardPortDaash](https://user-images.githubusercontent.com/40659333/120620410-dc76c400-c454-11eb-8aa1-0a916c648482.png)
 ![hoardLoanDash](https://user-images.githubusercontent.com/40659333/120620454-e4ceff00-c454-11eb-8b00-ada209e7af49.png)
 ![hoardProfile](https://user-images.githubusercontent.com/40659333/120620478-ea2c4980-c454-11eb-99c6-28ad42416134.png)
